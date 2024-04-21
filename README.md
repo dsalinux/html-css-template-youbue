@@ -7,6 +7,7 @@ This repository presents the source code of the content showcased in the playlis
 
 
 * [Login Template 01](#login-template-01)
+* [Login Template 02](#login-template-02)
 * [Credits](#credits)
 
 ## Login Template 01
@@ -14,6 +15,13 @@ This repository presents the source code of the content showcased in the playlis
 [Whatch Vídeo ](https://youtu.be/m5exKA2VXDU?si=zKCmEXIWt19hpf3L)
 
 Video showcasing the creation process of a login template page using video as a background, with transparency and blur effects to enhance the visibility of the content.
+
+## Login Template 02
+
+[Whatch Vídeo ](https://youtu.be/dArtjM1ACVk)
+
+Video with the process of creating a login template page using responsive and CSS animation.
+
 
 ## Credits
 
